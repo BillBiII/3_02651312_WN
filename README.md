@@ -7,3 +7,5 @@ For quantumlogicgates.py, I would advise you run this on a Linux system, or a si
 This code was used to obtain the results for my poster, and the code may be incomplete or missing proper explanations, as it is not the main focus of the project.
 GIF generation lines are commented out to vastly reduce run time of code.
 Note that if you run the Python file through a Python Debugger, say in VSCode, it may fail when it is ran for the first time, due to line 22. If you find a solution to this, thanks.
+
+The 3_02651312_WN.pdf file has been added as a backup file of the M1R poster.
