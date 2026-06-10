@@ -10,7 +10,7 @@ Note that if you run the Python file through a Python Debugger, say in VSCode, i
 
 The 3_02651312_WN.pdf file has been added as a backup file of the M1R poster.
 
-derivations_WIP.pdf is missing its final chapter. This will be updated in the following days.
+derivations_WIP_v2.pdf is missing its final chapter. This will be updated in the following days.
 
 The following information may be useful for those wanting to run the quantumlogicgates.py file:
 Package                  Version
